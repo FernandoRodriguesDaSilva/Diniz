@@ -108,19 +108,19 @@
       <div class="row text-center  wowload fadeInDownBig">
        <div class="col-sm-3 col-xs-6">
         <i class="fa fa-smile-o  fa-5x"></i><h4>Agilidade</h4>
-       </div>
-       <div class="col-sm-3 col-xs-6">
-         <i class="fa fa-rocket  fa-5x"></i><h4>Qualidade</h4>
-       </div>
-       <div class="col-sm-3 col-xs-6">
-         <i class="fa fa-cloud-download  fa-5x"></i><h4>Garantia</h4>
-       </div>
-       <div class="col-sm-3 col-xs-6">
-         <i class="fa fa-map-marker fa-5x"></i><h4>Compromisso</h4>
-       </div>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+       <i class="fa fa-rocket  fa-5x"></i><h4>Qualidade</h4>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+       <i class="fa fa-cloud-download  fa-5x"></i><h4>Garantia</h4>
+     </div>
+     <div class="col-sm-3 col-xs-6">
+       <i class="fa fa-map-marker fa-5x"></i><h4>Compromisso</h4>
      </div>
    </div>
  </div>
+</div>
 </div>
 <!-- Galeria -->
 <div id="galery" class="work_ends">
@@ -130,17 +130,36 @@
 <!-- Fim da Galeria -->
 <div id="contact" class="spacer">
   <!--Contato Iniciado-->
+  
   <div class="container contactform center">
     <h2 class="text-center  wowload fadeInUp">Preencha o formulário</h2>
     <div class="row wowload fadeInLeftBig">      
-      <div class="col-sm-6 col-sm-offset-3 col-xs-12">      
-        <input type="text" placeholder="Digite seu nome">
-        <input type="text" placeholder="Digite seu telefone">
-        <textarea rows="5" placeholder="Deixe seu mensagem"></textarea>
-        <button class="btn btn-primary"><i class="fa fa-paper-plane"></i>&nbsp;Enviar</button>
-      </div>
+      <div class="col-sm-6 col-sm-offset-3 col-xs-12"> 
+        <form action="https://postmail.invotes.com/send" method="post" id="email_form">     
+          <input type="text" name="subject" placeholder="Digite seu nome">
+          <input type="text" name="extra_telefone" placeholder="Digite seu telefone">
+          <input type="text" name="extra_email" placeholder="Digite seu Email">
+          <textarea rows="5" type="text" name="text" placeholder="Deixe seu mensagem"></textarea>
+          <input type="hidden" name="access_token" value="mvx9mnkhgk7w5ch9vwad7ymg" />
+          <input type="hidden" name="success_url" value=".?message=Email+Successfully+Sent%21&isError=0" />
+          <input type="hidden" name="error_url" value=".?message=Email+could+not+be+sent.&isError=1" />
+          <button id="submit_form" type="submit" class="btn btn-primary">
+           <i class="fa fa-paper-plane"></i>&nbsp;Enviar
+         </button>
+       </form>
+       <script>
+        var submitButton = document.getElementById("submit_form");
+        var form = document.getElementById("email_form");
+        form.addEventListener("submit", function (e) {
+          setTimeout(function() {
+            submitButton.value = "Sending...";
+            submitButton.disabled = true;
+          }, 1);
+        });
+      </script> 
     </div>
   </div>
+</div>
 </div>
 <!--Contato finalizado-->
 <?php include_once ("includes/footer.php"); ?>
