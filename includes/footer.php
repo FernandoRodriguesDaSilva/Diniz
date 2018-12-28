@@ -5,15 +5,6 @@
   © 2019 Diniz Sinalizações. Todos os direitos Reservados
 </div>
 
-<a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-  <div class="slides"></div>
-  <h3 class="title">title</h3>
-  <a class="prev">‹</a>
-  <a class="next">›</a>
-  <a class="close">×</a> 
-</div>
-
 <script src="assets/jquery.js"></script>
 <script src="assets/wow/wow.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
