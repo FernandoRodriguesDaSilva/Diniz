@@ -171,9 +171,21 @@ p{
 	color:#fff;
 }
 .highlight-info .overlay{
-	background: rgba(33,171,202,0.5);
+	background: rgba(33, 171, 202, 0.74);
 }
 .highlight-info h4{
+	color: #fff;margin:0.5em 0 0 0;
+}
+
+.highlight-info2{ background:url(../images/lab2.jpg) center fixed;
+	background-size: cover; 
+	color:#fff;
+}
+.highlight-info2 .overlay{
+	background: rgba(33, 171, 202, 0.74);
+	margin-top: 5em;
+}
+.highlight-info2 h4{
 	color: #fff;margin:0.5em 0 0 0;
 }
 

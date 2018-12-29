@@ -107,16 +107,16 @@
     <div class="container">
       <div class="row text-center  wowload fadeInDownBig">
        <div class="col-sm-3 col-xs-6">
-        <i class="fa fa-smile-o  fa-5x"></i><h4>Agilidade</h4>
+        <i class="far fa-clock  fa-5x"></i><h4>Agilidade</h4>
       </div>
       <div class="col-sm-3 col-xs-6">
-       <i class="fa fa-rocket  fa-5x"></i><h4>Qualidade</h4>
+       <i class="far fa-check-circle fa-5x"></i><h4>Qualidade</h4>
      </div>
      <div class="col-sm-3 col-xs-6">
-       <i class="fa fa-cloud-download  fa-5x"></i><h4>Garantia</h4>
+       <i class="fas fa-exchange-alt fa-5x"></i><h4>Garantia</h4>
      </div>
      <div class="col-sm-3 col-xs-6">
-       <i class="fa fa-map-marker fa-5x"></i><h4>Compromisso</h4>
+       <i class="fab fa-creative-commons-by fa-5x"></i><h4>Compromisso</h4>
      </div>
    </div>
  </div>
@@ -128,6 +128,19 @@
   <?php include_once ('includes/galery.php'); ?>
 </div>
 <!-- Fim da Galeria -->
+
+<div class="highlight-info2">
+  <div class="overlay spacer">
+    <div class="container">
+      <div class="row text-center  wowload fadeInDownBig">
+       <div class="col-sm-12 col-xs-6">
+        <i class="far fa-clock  fa-5x"></i><h4>Faça um orçamento sem compromisso</h4>
+      </div>
+   </div>
+ </div>
+</div>
+</div>
+
 <div id="contact" class="spacer">
   <!--Contato Iniciado-->
   
