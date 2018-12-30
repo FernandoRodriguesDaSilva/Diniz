@@ -80,23 +80,21 @@
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
-  <h2 class="text-center wowload fadeInUp">Qualidade em Sinalizações</h2>  
+  <h2 class="text-center wowload fadeInUp">Pensou em Sinalizar ?</h2>  
   <div class="row">
     <div class="col-sm-6 wowload fadeInLeft">
-      <h4><i class="fa fa-paint-brush"></i> Sinalizações Verticais</h4>
-      <p>A DINIZ SINALIZAÇÕES trabalha com implantação de todos os tipos de placas para sinalização vertical rodoviária, urbana e turística. As placas podem ser refletivas ou semirefletivas, permitindo diversas combinações de substratos, refletividade, suportes, fixadores, etc. Os serviços são executados com modernas técnicas de instalação e os materiais seguem rigorosamente as especificações de cada projeto, atendendo as respectivas normas vigentes no mercado.<br>
-      Confira abaixo as possíveis combinações Este tipo de sinalização viária utiliza placas onde o meio de comunicação por meio de um sinal na posição vertical emitindo a mensagem de caráter permanente e, eventualmente, variáveis, mediante símbolos e/ou legendas pré-reconhecidas e legalmente instituídas Placas de advertência, regulamentação, segurança, indicativas de trânsito, incêndio dentre outros riscos.</p>
-
-
+      <h4><i class="fas fa-level-down-alt"></i>Quem somos</h4>
+      <p>Atendendo em São Carlos e região com equipamentos de proteção em sinalização horizontais e verticais, especialmente projetados para o controle e prevenção de acidentes em áreas urbanas, de risco e de grande fluxo de usuários do sistema viário.
+        <br>
+        A <strong>DINIZ SINALIZAÇÕES</strong> trabalha com produtos de primeira linha com qualidade diferenciada. 
+        Negociando com fornecedores reconhecidamente qualificados e selecionados, garantido assim a qualidade final de seus serviços. 
+      Sempre atento as novidades referente a produtos e materiais a serem aplicados em cada tipo de obra de sinalização.</p>
     </div>
     <div class="col-sm-6 wowload fadeInRight">
-      <h4><i class="fa fa-code"></i> Sinalizações Horizontais</h4>
-      <p>Nesta área a DINIZ SINALIZAÇÕES mantém atuação destacada, com capacidade técnica e produtiva diferenciada para executar projetos de sinalização viária horizontal. Os serviços são realizados com equipamentos que permite um ganho significativo de produtividade, qualidade e eficiência na aplicação dos materiais, tudo de acordo com as especificações de cada projeto e atendendo as normas técnicas existentes no mercado.
-        <li>Pintura a frio com tinta metacrílica monocomponente</li><br>
-        <li>Pintura a frio (manual) com plástico a frio bicomponente a base de resina</li><br>
-        <li>Remoção de demarcações existentes</li><br>
-        <li>Segregadores</li><br>
-        <li>Prismas de vidro ou concreto</li>
+      <h4><i class="far fa-comment"></i>Nosso objetivo</h4>
+      <p><strong>DINIZ SINALIZAÇÕES</strong> busca sempre a melhor qualificação de seus profissionais, proporcionando uma equide de pintores treinada periodicamente, sempre com novas técnicas garantindo segurança ao colaborador que manuseia cada equipamento, seguindo as normas ambientais e não agredindo a natureza.
+        <br>
+        Temos com requisito principal promover a segurança e reduzir o número de acidentes no trânsito, melhorar a experiência de locomoção dos usuários e colaborar para o desenvolvimento onde precisamos atuar em São Carlos e toda região.
       </p>    
     </div>
   </div>
@@ -107,7 +105,7 @@
     <div class="container">
       <div class="row text-center  wowload fadeInDownBig">
        <div class="col-sm-3 col-xs-6">
-        <i class="far fa-clock  fa-5x"></i><h4>Agilidade</h4>
+        <i class="far fa-clock fa-5x"></i><h4>Agilidade</h4>
       </div>
       <div class="col-sm-3 col-xs-6">
        <i class="far fa-check-circle fa-5x"></i><h4>Qualidade</h4>
@@ -122,22 +120,53 @@
  </div>
 </div>
 </div>
+
+<!-- Cirlce Starts -->
+<div id="service"  class="container spacer about">
+  <h2 class="text-center wowload fadeInUp">Qualidade em Sinalizações</h2>  
+  <div class="row">
+    <div class="col-sm-6 wowload fadeInLeft">
+      <h4><i class="fas fa-highlighter"></i>Sinalizações Verticais</h4>
+      <p>A <strong>DINIZ SINALIZAÇÕES</strong> trabalha com implantação de todos os tipos de placas para sinalização vertical rodoviária, urbana e turística. As placas podem ser refletivas ou semirefletivas, permitindo diversas combinações de substratos, refletividade, suportes, fixadores, etc. Os serviços são executados com modernas técnicas de instalação e os materiais seguem rigorosamente as especificações de cada projeto, atendendo as respectivas normas vigentes no mercado.<br>
+      Confira abaixo as possíveis combinações Este tipo de sinalização viária utiliza placas onde o meio de comunicação por meio de um sinal na posição vertical emitindo a mensagem de caráter permanente e, eventualmente, variáveis, mediante símbolos e/ou legendas pré-reconhecidas e legalmente instituídas Placas de advertência, regulamentação, segurança, indicativas de trânsito, incêndio dentre outros riscos.</p>
+
+
+    </div>
+    <div class="col-sm-6 wowload fadeInRight">
+      <h4><i class="fa fa-paint-brush"></i>Sinalizações Horizontais</h4>
+      <p>Nesta área a <strong>DINIZ SINALIZAÇÕES</strong> mantém atuação destacada, com capacidade técnica e produtiva diferenciada para executar projetos de sinalização viária horizontal. Os serviços são realizados com equipamentos que permite um ganho significativo de produtividade, qualidade e eficiência na aplicação dos materiais, tudo de acordo com as especificações de cada projeto e atendendo as normas técnicas existentes no mercado.
+        <li>Pintura a frio com tinta metacrílica monocomponente</li><br>
+        <li>Pintura a frio (manual) com plástico a frio bicomponente a base de resina</li><br>
+        <li>Remoção de demarcações existentes</li><br>
+        <li>Segregadores</li><br>
+        <li>Prismas de vidro ou concreto</li>
+      </p>    
+    </div>
+  </div>
+</div>
+
+
 <!-- Galeria -->
 <div id="galery" class="work_ends">
   <h2 class="animated bounceInLeft">Trabalhos Finalizados</h2>
   <?php include_once ('includes/galery.php'); ?>
 </div>
 <!-- Fim da Galeria -->
-
+<h2 class="text-center  wowload fadeInUp" style="margin-top: 1.9em;">Solicite um orçamento</h2>
 <div class="highlight-info2">
   <div class="overlay spacer">
-    <div class="container">
-      <div class="row text-center  wowload fadeInDownBig">
-       <div class="col-sm-12 col-xs-6">
-        <i class="far fa-clock  fa-5x"></i><h4>Faça um orçamento sem compromisso</h4>
-      </div>
+   <div class="container">
+    <div class="row text-center  wowload fadeInDownBig">
+     <div class="col-sm-6 col-xs-6">
+      <i class="fab fa-whatsapp fa-5x"></i>
+      <h4>(16) 99233 - 6288</h4>
+    </div>
+    <div class="col-sm-6 col-xs-6">
+     <i class="fas fa-phone fa-5x"></i>
+     <h4>(16) 3368 - 7445</h4>
    </div>
  </div>
+</div>
 </div>
 </div>
 

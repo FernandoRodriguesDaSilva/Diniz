@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/animate/animate.css" />
   <link rel="stylesheet" href="assets/animate/set.css" />
-  <link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
   <link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon">
   <link rel="icon" href="images/favicon.jpg" type="image/x-icon">
   <link rel="stylesheet" href="assets/style.css">
@@ -42,6 +41,7 @@
              <li class="active"><a href="#home">Home</a></li>
              <li ><a href="#about">Sobre</a></li>
               <li><a href="#galery">Galeria</a></li>
+              <li><a href="#service">Serviços</a></li>
              <li ><a href="#contact">Contato</a></li>                 
            </ul>
          </div>
