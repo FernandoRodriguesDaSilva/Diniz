@@ -15,7 +15,7 @@
   <link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon">
   <link rel="icon" href="images/favicon.jpg" type="image/x-icon">
   <link rel="stylesheet" href="assets/style.css">
-</head>
+</head> 
 
 <body>
   <div class="topbar animated fadeInLeftBig"></div>
@@ -41,6 +41,7 @@
              <li class="active"><a href="#home">Home</a></li>
              <li ><a href="#about">Sobre</a></li>
               <li><a href="#galery">Galeria</a></li>
+              <li><a href="#video">Video</a></li>
               <li><a href="#service">Serviços</a></li>
              <li ><a href="#contact">Contato</a></li>                 
            </ul>

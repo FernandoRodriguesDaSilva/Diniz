@@ -12,12 +12,7 @@
           <div class="caption-info">
             <img src="images/logobig.png" class="animated bounceInUp" alt="logo">
             <h1 class="animated bounceInLeft">Qualidade em Sinalizações</h1>
-            <p class="animated bounceInRight">Fale conosco, solicite um orçamento sem compromisso, veja as vantagens de realizar seus serviços com garantia e rapidez na entrega.</p>
-              <!-- 
-            <div class="scroll animated fadeInUp"><a href="#works" class="btn btn-default">
-              <i class="fa fa-flask"></i>  View Project</a> <a href="#contact" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> Start Your Project</a>
-            </div>
-          -->
+            <p class="animated bounceInRight">Somos especializados em inscrições de vias, sinalizações verticais e  horizontais</p>
         </div>
       </div>
     </div>
@@ -32,8 +27,7 @@
       <div class="caption-info">
         <img src="images/logobig.png" class="animated bounceInUp" alt="logo">
         <h1 class="animated bounceInLeft">Entrega garantida</h1>
-        <p class="animated bounceInRight">melhor qualificação de seus profissionais</p>
-
+        <p class="animated bounceInRight">Estamos sempre prontos para prestar o melhor serviço a nossos clientes. </p>
       </div>
     </div>
   </div>
@@ -48,8 +42,7 @@
     <div class="caption-info">
       <img src="images/logobig.png" class="animated bounceInUp" alt="logo">
       <h1 class="animated bounceInLeft">Promover a segurança</h1>
-      <p class="animated bounceInRight">Equipe de pintores treinada periodicamente</p>
-
+      <p class="animated bounceInRight">Conheça nossos projetos que oferecem soluções para a segurança completa do trânsito</p>
     </div>
   </div>
 </div>
@@ -64,8 +57,7 @@
     <div class="caption-info">
       <img src="images/logobig.png" class="animated bounceInUp" alt="logo">
       <h1 class="animated bounceInLeft"> Reduzir acidentes</h1>
-      <p class="animated bounceInRight"> melhorar a experiência de locomoção dos usuários</p>
-
+      <p class="animated bounceInRight">Consulte as vantagens de realizar seus serviços com garantia e rapidez na entrega</p>
     </div>
   </div>
 </div>
@@ -80,7 +72,7 @@
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
-  <h2 class="text-center wowload fadeInUp">Pensou em Sinalizar ?</h2>  
+  <h2 class="text-center wowload fadeInUp">Promover a segurança e reduzir acidentes</h2>  
   <div class="row">
     <div class="col-sm-6 wowload fadeInLeft">
       <h4><i class="fas fa-level-down-alt"></i>Quem somos</h4>
@@ -128,15 +120,13 @@
     <div class="col-sm-6 wowload fadeInLeft">
       <h4><i class="fas fa-highlighter"></i>Sinalizações Verticais</h4>
       <p>A <strong>DINIZ SINALIZAÇÕES</strong> trabalha com implantação de todos os tipos de placas para sinalização vertical rodoviária, urbana e turística. As placas podem ser refletivas ou semirefletivas, permitindo diversas combinações de substratos, refletividade, suportes, fixadores, etc. Os serviços são executados com modernas técnicas de instalação e os materiais seguem rigorosamente as especificações de cada projeto, atendendo as respectivas normas vigentes no mercado.<br>
-      Confira abaixo as possíveis combinações Este tipo de sinalização viária utiliza placas onde o meio de comunicação por meio de um sinal na posição vertical emitindo a mensagem de caráter permanente e, eventualmente, variáveis, mediante símbolos e/ou legendas pré-reconhecidas e legalmente instituídas Placas de advertência, regulamentação, segurança, indicativas de trânsito, incêndio dentre outros riscos.</p>
-
-
+      Este tipo de sinalização viária utiliza placas onde o meio de comunicação por meio de um sinal na posição vertical emitindo a mensagem de caráter permanente e, eventualmente, variáveis, mediante símbolos e/ou legendas pré-reconhecidas e legalmente instituídas com placas de advertência, regulamentação, segurança, indicativas de trânsito, incêndio dentre outros riscos.</p>
     </div>
     <div class="col-sm-6 wowload fadeInRight">
       <h4><i class="fa fa-paint-brush"></i>Sinalizações Horizontais</h4>
       <p>Nesta área a <strong>DINIZ SINALIZAÇÕES</strong> mantém atuação destacada, com capacidade técnica e produtiva diferenciada para executar projetos de sinalização viária horizontal. Os serviços são realizados com equipamentos que permite um ganho significativo de produtividade, qualidade e eficiência na aplicação dos materiais, tudo de acordo com as especificações de cada projeto e atendendo as normas técnicas existentes no mercado.
         <li>Pintura a frio com tinta metacrílica monocomponente</li><br>
-        <li>Pintura a frio (manual) com plástico a frio bicomponente a base de resina</li><br>
+        <li>Pintura a frio (manual) com plástico a frio bicomponente</li><br>
         <li>Remoção de demarcações existentes</li><br>
         <li>Segregadores</li><br>
         <li>Prismas de vidro ou concreto</li>
@@ -151,6 +141,22 @@
   <h2 class="animated bounceInLeft">Trabalhos Finalizados</h2>
   <?php include_once ('includes/galery.php'); ?>
 </div>
+
+<!-- Galeria de Videos -->
+<div class="bounceInLeft"> 
+  <h2 id="video" style="text-align: center; margin-top: 1.2em;">Videos</h2>
+  <div class="col-8">
+    <div id="myCarousel" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="item active">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/4sLA21c5Uwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <!-- Fim da Galeria -->
 <h2 class="text-center  wowload fadeInUp" style="margin-top: 1.9em;">Solicite um orçamento</h2>
 <div class="highlight-info2">
@@ -172,7 +178,6 @@
 
 <div id="contact" class="spacer">
   <!--Contato Iniciado-->
-  
   <div class="container contactform center">
     <h2 class="text-center  wowload fadeInUp">Preencha o formulário</h2>
     <div class="row wowload fadeInLeftBig">      
@@ -208,35 +213,3 @@
 
 
 <!-- 
-
-
-
-<div class="container">
-  <div class="span8">
-  <div id="myCarousel" class="carousel slide">
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class=""></li>
-      <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="item active">
-        <iframe width="100%" height="100%" src="//www.youtube.com/embed/-w-58hQ9dLk?controls=0" frameborder="0" allowfullscreen=""></iframe>
-      </div>
-      <div class="item">
-        <iframe width="100%" height="100%" src="//www.youtube.com/embed/SEBLt6Kd9EY?controls=0" frameborder="0" allowfullscreen=""></iframe>
-      </div>
-      <div class="item">
-        <iframe width="100%" height="100%" src="//www.youtube.com/embed/IkTw7J-hGmg?controls=0" frameborder="0" allowfullscreen=""></iframe>
-      </div>
-    </div>
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
-  </div>
-  </div>
-</div>
-
-
-
-
- -->
